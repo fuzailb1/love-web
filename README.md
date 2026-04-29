@@ -49,7 +49,6 @@ git push origin amazing-feature
 ## 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-# 👨‍💻 Maintainer
-Deepak Kambala
+
 
 Passionate about creating fun web experiences 🚀
